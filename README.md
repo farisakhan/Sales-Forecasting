@@ -36,4 +36,4 @@ The project generates:
 
 ## 👩‍💻 Author
 **Farisa Khan**  
-B.Tech Student – Data Science Enthusiast
+
